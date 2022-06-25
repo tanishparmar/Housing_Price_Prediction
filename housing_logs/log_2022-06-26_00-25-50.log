@@ -1,0 +1,9 @@
+[2022-06-26 00:25:50,966] werkzeug - WARNING -  * Debugger is active!
+[2022-06-26 00:25:50,970] werkzeug - INFO -  * Debugger PIN: 716-333-089
+[2022-06-26 00:27:24,399] ro[2022-06-26 00:28:23,495] werkzeug - INFO -  * Restarting with stat
+[2022-06-26 00:29:16,692] werkzeug - INFO -  * Restarting with stat
+[2022-06-26 00:29:31,455] werkzeug - INFO -  * Restarting with stat
+[2022-06-26 00:29:36,954] werkzeug - INFO -  * Restarting with stat
+- [26/Jun/2022 00:27:24] "GET / HTTP/1.1" 200 -
+[2022-06-26 00:27:24,509] werkzeug - INFO - 127.0.0.1 - - [26/Jun/2022 00:27:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2022-06-26 00:28:23,465] werkzeug - INFO -  * Detected change in 'd:\\Programming\\Flask\\Housing Price Prediction\\app.py', reloading
